@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title> THE TITLE</title>
 <body>
