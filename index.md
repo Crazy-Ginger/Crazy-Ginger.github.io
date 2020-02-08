@@ -1,4 +1,3 @@
-<!DOCTYPEM html>
 <html>
 <title> THE TITLE</title>
 <body>
